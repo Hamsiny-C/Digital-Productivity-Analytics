@@ -1,0 +1,5 @@
+psutil
+matplotlib
+pandas
+pygetwindow
+pywin32
