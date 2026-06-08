@@ -1,8 +1,24 @@
-# 🌐 Digital Productivity & Internet Analytics System
+<div align="center">
 
-🚀 A Python-based desktop application designed to monitor internet usage, track screen time, analyze productivity patterns, and generate insightful reports to help users improve their digital habits.
+# 🌐✨ Digital Productivity & Internet Analytics System ✨🌐
 
-### ✨ Features
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Track+Your+Internet+Usage;Analyze+Your+Screen+Time;Improve+Your+Digital+Productivity;Python+Desktop+Analytics+App" />
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+---
+
+## 🚀 About The Project
+
+**Digital Productivity & Internet Analytics System** is a Python desktop application that helps users monitor their internet usage, screen time, and application activity.
+
+It provides productivity insights, usage reports, and visual analytics to help users understand and improve their digital habits.
+
+---
+
+## ✨ Features
 
 📊 Real-Time Internet Usage Monitoring
 
@@ -12,48 +28,87 @@
 
 📈 Productivity Analytics Dashboard
 
-📄 Daily Activity Reports
+📄 Daily Activity Report
 
-💾 SQLite Database Integration
+💾 SQLite Database Storage
 
-📉 Data Visualization with Charts
+📉 Charts and Visual Reports
 
 🎯 Productivity Score Calculation
 
-### 🛠️ Tech Stack
+---
 
-🐍 Python
+## 🛠️ Tech Stack
 
-🖼️ Tkinter GUI
+<img src="https://img.shields.io/badge/Python-36BCF7?style=for-the-badge&logo=python&logoColor=white"/>
 
-🗄️ SQLite Database
+<img src="https://img.shields.io/badge/Tkinter-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
 
-📊 Matplotlib
+<img src="https://img.shields.io/badge/SQLite-BA55D3?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-⚡ Psutil
+<img src="https://img.shields.io/badge/Matplotlib-FFB6C1?style=for-the-badge&logo=python&logoColor=white"/>
 
-🪟 PyWin32
+<img src="https://img.shields.io/badge/Psutil-87CEEB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 🎯 Project Goal
+---
 
-To help users understand how they spend their time on computers and the internet by providing detailed analytics, usage reports, and productivity insights for better digital well-being.
+## 📂 Project Modules
 
-### 🌟 Highlights
+🌐 `internet_tracker.py` — Tracks internet upload and download usage
 
-✔ Tracks application usage in real-time
+⏱️ `screen_tracker.py` — Monitors screen time activity
 
-✔ Monitors upload and download network activity
+🖥️ `app_tracker.py` — Tracks active applications
 
-✔ Stores historical analytics data
+📊 `analytics.py` — Generates charts and productivity insights
 
-✔ Generates productivity reports
+🗄️ `database.py` — Stores usage data in SQLite database
 
-✔ Visualizes trends through interactive charts
+🖼️ `gui.py` — Provides desktop user interface
 
-✔ Lightweight and user-friendly desktop application
+▶️ `main.py` — Starts the application
 
-### 👩‍💻 Developed By
+---
 
-**Hamsiny C**
+## 🌈 Project Preview
 
-💖 Computer Science Student | Python Developer | Data Analytics Enthusiast
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d279-4c9c-8dd4-e5f43c8f6fd1.gif" width="500"/>
+
+---
+
+## 🎯 Project Goal
+
+To help users understand their computer usage patterns and improve productivity through real-time tracking, analytics, and daily reports.
+
+---
+
+## 🚀 How To Run
+
+```bash
+git clone https://github.com/Hamsiny-C/Digital-Productivity-Analytics.git
+cd Digital-Productivity-Analytics/Digital_Productivity_Analytics
+pip install -r requirements.txt
+python main.py
+```
+
+---
+
+## 👩‍💻 Developer
+
+### 🌸 Hamsiny C
+
+🎓 Computer Science Student
+
+🐍 Python Developer
+
+📊 Data Analytics Enthusiast
+
+🚀 Building Real-World Projects
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Track+Analyze+Improve;Smart+Digital+Productivity+System;Built+With+Python+And+Love" />
+
+### ⭐ If you like this project, give it a star ⭐
+
+</div>
